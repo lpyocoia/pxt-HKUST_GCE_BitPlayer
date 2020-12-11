@@ -17,11 +17,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
-    "supportedTargets": [
-        "microbit"
-    ],
-    "disablesVariants": [
-        "mbcodal"
-     ]
+    "public": true
 }
