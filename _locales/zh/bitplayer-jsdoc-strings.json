@@ -1,6 +1,6 @@
 {
-    "BitPlayer.OnKey": "当指定按键被单击、按下或松开时执行操作.",
-    "BitPlayer.KeyPressed": "获取指定按键的状态(是否被按下).",
-    "BitPlayer.SetMotor": "打开或关闭振动马达.",
-    "BitPlayer.OnJoystick": "获取摇杆的状态(是否被向某个方向推动)."
+    "BitPlayer.OnKey": "當指定按鍵被點選、按下或放開時執行動作.",
+    "BitPlayer.KeyPressed": "取得指定按鍵的狀態(是否被按下).",
+    "BitPlayer.SetMotor": "開啟或關閉震動馬達.",
+    "BitPlayer.OnJoystick": "取得搖桿的狀態(是否被向某個方向推動)."
 }
